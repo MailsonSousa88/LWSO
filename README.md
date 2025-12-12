@@ -29,7 +29,7 @@ O processo principal:
 1. Cria um Worker para cada professor  
 2. Recebe mensagens como:  
    - ataques  
-   - morte de professor  
+   - morte de processo  
    - fim da luta  
 3. Controla o jogo, mas **não processa a lógica de batalha**  
 4. Encerramento ocorre quando sobra apenas um worker vivo  
